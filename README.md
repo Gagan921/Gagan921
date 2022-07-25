@@ -2,13 +2,13 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **QR Code Generator**
+- 🔭 I’m currently working on **Random Meme Generator**
 
 - 🌱 I’m currently learning **Typescript,Web3**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **react,javascript,html,css,bootstrap,data structures and algorithms.**
+- 💬 Ask me about **React, Javascript, Html, Css, Bootstrap, Data structures and Algorithms.**
 
 - 📫 How to reach me **garora20044@gmail.com**
 
