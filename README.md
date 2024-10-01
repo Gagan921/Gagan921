@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Random Meme Generator**
 
-- 🌱 I’m currently learning **Typescript,Web3**
+- 🌱 I’m currently learning **Golang, Java**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React, Javascript, Html, Css, Bootstrap, Data structures and Algorithms.**
+- 💬 Ask me about **NodeJS, Python, React, Javascript, Typescript,  Html, Css, Bootstrap, Data structures and Algorithms.**
 
 - 📫 How to reach me **garora20044@gmail.com**
 
