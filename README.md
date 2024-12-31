@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **NodeJS, Python, React, Javascript, Typescript,  Html, Css, Bootstrap, Data structures and Algorithms.**
+- 💬 Ask me about **NodeJS, Python, React, Javascript, Typescript, Data structures and Algorithms, System Design.**
 
 - 📫 How to reach me **garora20044@gmail.com**
 
