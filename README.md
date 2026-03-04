@@ -107,7 +107,7 @@ Fun side project using API integrations & frontend optimization.
 
 
 <p align="center">
-  🚀 Actively building at the intersection of AI + Backend + Finance
+  🚀 Actively building at the intersection of AI + Backend
 </p>
 
 
