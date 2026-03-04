@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🧠 Backend-focused Full Stack Engineer (4+ years)
+- 🧠 Backend-focused Full Stack Engineer (7+ years)
 - 🤖 Currently building **AI-powered products & automation tools**
 - 📈 Working on: **TradeJournal AI & AI-first web systems**
 - 🌱 Learning deeply: **Golang • Java • Distributed Systems • LLM Integrations**
