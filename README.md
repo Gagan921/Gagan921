@@ -58,8 +58,8 @@ AI-powered workflows
 ### 🧠 TradeJournal AI  
 AI-powered trading journal for performance analytics, mistake detection & strategy insights.
 
-### 🎲 Random Meme Generator  
-Fun side project using API integrations & frontend optimization.
+### 🎲 Workflow Engine  
+A full-stack workflow automation platform similar to Zapier, built with Node.js, TypeScript, React, and Postgres.
 
 ---
 
